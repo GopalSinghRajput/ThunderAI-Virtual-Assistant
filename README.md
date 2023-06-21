@@ -18,4 +18,5 @@ samples, guidance on mobile development, and a full API reference.
 
 Here is the preview of the application
 
-![Home page]("homepage.png")
+1
+![Image description](homepage.png "Image caption")
