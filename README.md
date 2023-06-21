@@ -18,4 +18,4 @@ samples, guidance on mobile development, and a full API reference.
 
 Here is the preview of the application
 
-![image info]("C:\Users\gs180\OneDrive\Pictures\thunderai\Snipaste_2023-06-21_01-05-20.png")
+![image]("ThunderAI-Virtual-Assistant/Snipaste_2023-06-21_01-05-20.png")
