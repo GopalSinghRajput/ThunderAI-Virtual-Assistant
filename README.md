@@ -18,4 +18,4 @@ samples, guidance on mobile development, and a full API reference.
 
 Here is the preview of the application
 
-![Home page]("Snipaste_2023-06-21_01-05-20.png")
+![Home page]("homepage.png")
