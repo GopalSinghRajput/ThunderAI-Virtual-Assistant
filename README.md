@@ -1,15 +1,16 @@
-# gopal
+# ThuderAI 
 
 A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+A virtual assistant application which is built on flutter and uses OpenAI API to generate automated answers and also can generate images based on user prompt
 
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [OpenAI: [OpenAI: references](https://platform.openai.com/docs/api-reference))
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
