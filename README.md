@@ -1,6 +1,6 @@
-# ThuderAI 
+# ThunderAI 
 
-A new Flutter project.
+A new Flutter project :zap:.
 
 ## Getting Started
 
