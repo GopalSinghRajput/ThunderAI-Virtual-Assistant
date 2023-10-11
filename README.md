@@ -1,21 +1,36 @@
-# ThunderAI 
+# ThunderAI - Your Virtual Assistant
 
-A new Flutter project :zap:.
+ThunderAI is a powerful virtual assistant application built using Flutter and OpenAI's API. It can provide automated answers to questions and generate images based on user prompts. This `readme.md` provides comprehensive information about the project, how to set it up, its features, and how to contribute.
+
+![ThunderAI Preview](link-to-preview-image.png)
+
+## Table of Contents
+
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Features](#features)
+- [Contributing](#contributing)
+- [License](#license)
+- [Acknowledgments](#acknowledgments)
 
 ## Getting Started
 
-A virtual assistant application which is built on flutter and uses OpenAI API to generate automated answers and also can generate images based on user prompt
+These instructions will help you get a copy of the ThunderAI project up and running on your local machine for development and testing purposes.
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-- [OpenAI References](https://platform.openai.com/docs/api-reference)
+To run ThunderAI, you'll need the following:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Flutter](https://flutter.dev/docs/get-started/install) installed on your system.
 
-Here is the preview of the application
+### Installation
+
+1. **Clone this repository:**
+
+   ```bash
+   git clone https://github.com/your-username/ThunderAI.git
+   ```
+
 
 ![Image description](homepage.png "Homepage")
