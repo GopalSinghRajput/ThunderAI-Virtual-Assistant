@@ -1,10 +1,10 @@
 # ThunderAI - Your Virtual Assistant
 
-ThunderAI is a powerful virtual assistant application built using Flutter and OpenAI's API. It can provide automated answers to questions and generate images based on user prompts. This `README.md` provides comprehensive information about the project, how to set it up, its features, and how to contribute.
-
 <p align="center">
   <img src="1024.png" alt="TitanTalk Icon" width="200" height="200">
 </p>
+
+ThunderAI is a powerful virtual assistant application built using Flutter and OpenAI's API. It can provide automated answers to questions and generate images based on user prompts. This `README.md` provides comprehensive information about the project, how to set it up, its features, and how to contribute.
 
 ## Table of Contents
 
